@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Mafia",
+        "id": 1,
+        "owner": "license:a00e9ae5b705615ee72dc077aafe6078d2319f73",
+        "vehicles": {
+            "primo": true
+        },
+        "carColors": {
+            "secondary": 0,
+            "primary": 0
+        },
+        "weapons": {
+            "pistol": true,
+            "shotgun": false,
+            "rifle": false,
+            "smg": false
+        },
+        "blipColor": 255,
+        "upgrades": {
+            "accuracy": 0,
+            "health": 0,
+            "armor": 0,
+            "backup": 0
+        },
+        "members": {
+            "license:a00e9ae5b705615ee72dc077aafe6078d2319f73": {
+                "joined": 1765689896,
+                "rank": "leader"
+            }
+        }
+    }
+]
